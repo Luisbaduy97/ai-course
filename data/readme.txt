@@ -1,0 +1,1 @@
+This folder must contain LG and HG folders with patients data :)
