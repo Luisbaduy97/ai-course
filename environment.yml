@@ -1,7 +1,7 @@
 name: feature_x
 channels:
-  - anaconda
   - conda-forge
+  - anaconda
   - defaults
 dependencies:
   - argon2-cffi=20.1.0=py38he774522_1
@@ -10,17 +10,21 @@ dependencies:
   - backcall=0.2.0=py_0
   - blas=1.0=mkl
   - bleach=3.2.1=py_0
-  - ca-certificates=2020.7.22=0
+  - ca-certificates=2020.10.14=0
   - certifi=2020.6.20=py38_0
   - cffi=1.14.3=py38h7a1dbc1_0
+  - cloudpickle=1.6.0=py_0
   - colorama=0.4.3=py_0
   - cycler=0.10.0=py_2
+  - cytoolz=0.11.0=py38he774522_0
+  - dask-core=2.30.0=py_0
   - decorator=4.4.2=py_0
   - defusedxml=0.6.0=py_0
   - entrypoints=0.3=py38_0
   - freetype=2.10.3=hd328e21_0
   - icc_rt=2019.0.0=h0cc432a_1
   - icu=67.1=h33f27b4_0
+  - imageio=2.9.0=py_0
   - importlib-metadata=2.0.0=py_1
   - importlib_metadata=2.0.0=1
   - intel-openmp=2020.2=254
@@ -46,6 +50,7 @@ dependencies:
   - m2w64-gcc-libs-core=5.3.0=7
   - m2w64-gmp=6.1.0=2
   - m2w64-libwinpthread-git=5.0.0.4634.697f757=2
+  - mahotas=1.4.11=py38h251f6bf_0
   - markupsafe=1.1.1=py38he774522_0
   - matplotlib=3.3.2=0
   - matplotlib-base=3.3.2=py38hfb9ee82_0
@@ -59,6 +64,7 @@ dependencies:
   - nbconvert=6.0.7=py38_0
   - nbformat=5.0.7=py_0
   - nest-asyncio=1.4.1=py_0
+  - networkx=2.5=py_0
   - notebook=6.1.4=py38_0
   - numpy=1.19.1=py38h5510c5b_0
   - numpy-base=1.19.1=py38ha3acd2a_0
@@ -83,10 +89,13 @@ dependencies:
   - python-dateutil=2.8.1=py_0
   - python_abi=3.8=1_cp38
   - pytz=2020.1=py_0
+  - pywavelets=1.1.1=py38he774522_2
   - pywin32=227=py38he774522_1
   - pywinpty=0.5.7=py38_0
+  - pyyaml=5.3.1=py38he774522_1
   - pyzmq=19.0.2=py38ha925a31_1
   - qt=5.12.9=hb2cf2c5_0
+  - scikit-image=0.17.2=py38h1e1f486_0
   - scikit-learn=0.23.2=py38h47e9c7a_0
   - scipy=1.5.0=py38h9439919_0
   - send2trash=1.5.0=py38_0
@@ -96,7 +105,9 @@ dependencies:
   - terminado=0.9.1=py38_0
   - testpath=0.4.4=py_0
   - threadpoolctl=2.1.0=pyh5ca1d4c_0
+  - tifffile=2020.10.1=py38h8c2d366_2
   - tk=8.6.10=he774522_1
+  - toolz=0.11.1=py_0
   - tornado=6.0.4=py38hfa6e2cd_0
   - traitlets=5.0.4=py_0
   - vc=14.1=h0510ff6_4
@@ -107,6 +118,7 @@ dependencies:
   - wincertstore=0.2=py38_0
   - winpty=0.4.3=4
   - xz=5.2.5=h62dcd97_1
+  - yaml=0.2.5=he774522_0
   - zeromq=4.3.2=ha925a31_3
   - zipp=3.3.0=py_0
   - zlib=1.2.11=h62dcd97_4
@@ -116,5 +128,5 @@ dependencies:
     - pyqt5-sip==4.19.18
     - pyqtwebengine==5.12.1
     - simpleitk==2.0.0
-prefix: C:\Users\Asus\anaconda3\envs\feature_x
+prefix: C:\Users\DELL\Anaconda3\envs\feature_x
 
