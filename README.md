@@ -5,7 +5,7 @@
 </p>
 
 ## Go to colab exmaple
-<a href='https://colab.research.google.com/drive/1zAStFa6qOqzfzc2vqaFwbdn3yTB4EFQf?usp=sharing#scrollTo=MJwj22cMITZ8'>See colab example</a>
+<a href='https://colab.research.google.com/drive/1zAStFa6qOqzfzc2vqaFwbdn3yTB4EFQf?usp=sharing#scrollTo=MJwj22cMITZ8' target="_blank">See colab example</a>
 
 ## Run full code locally
 
@@ -27,7 +27,7 @@ conda env create -f environment.yml
 ```
 This will create a environment called **feature_x**
 3. Add mha images
-* Go to https://github.com/LuisAngelJuarez/Workshop-in-Medical-Image-Intelligence and extract the images
+* Go to <a href="https://github.com/LuisAngelJuarez/Workshop-in-Medical-Image-Intelligence" target="_blank"></a> and extract the images
 * Add the HG / LG Folders into data folder
 
-This project was made with :heart: by <a href='https://www.linkedin.com/in/luis-navarrete-baduy-53bb30176/'>Luis Navarrete</a>, <a href='https://github.com/marcoagbarreto'>Marco Barreto</a>, <a href=''>Nidiyare Hevia-Montiel</a>, <a href=''>Jorge Luis Perez Gonzalez</a>, <a href=''>Carlos Aranda</a> & <a href=''>Luis Angel Juarez</a>.
+This project was made with :heart: by <a href='https://www.linkedin.com/in/luis-navarrete-baduy-53bb30176/' target="_blank">Luis Navarrete</a>, <a href='https://github.com/marcoagbarreto' target="_blank">Marco Barreto</a>, <a href='#'>Nidiyare Hevia-Montiel</a>, <a href='#'>Jorge Luis Perez Gonzalez</a>, <a href='#'>Carlos Aranda</a> & <a href='#'>Luis Angel Juarez</a>.
