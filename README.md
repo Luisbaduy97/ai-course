@@ -18,7 +18,7 @@ Setup
 
 1. Clone this repo
 ```bash
-git clone https://github.com/Luisbaduy97/ai-course
+git clone https://github.com/Luisbaduy97/ai-course.git
 ```
 2. Install Anaconda environment
 Go to the project folder and open the anaconda terminal (windows) / terminal (mac/linux) and run the following command:
