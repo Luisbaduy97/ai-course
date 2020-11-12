@@ -27,7 +27,7 @@ conda env create -f environment.yml
 ```
 This will create a environment called **feature_x**
 3. Add mha images
-* Go to <a href="https://github.com/LuisAngelJuarez/Workshop-in-Medical-Image-Intelligence" target="_blank"></a> and extract the images
+* Go to <a href="https://github.com/LuisAngelJuarez/Workshop-in-Medical-Image-Intelligence" target="_blank">This repo</a> and extract the images
 * Add the HG / LG Folders into data folder
 
 This project was made with :heart: by <a href='https://www.linkedin.com/in/luis-navarrete-baduy-53bb30176/' target="_blank">Luis Navarrete</a>, <a href='https://github.com/marcoagbarreto' target="_blank">Marco Barreto</a>, <a href='#'>Nidiyare Hevia-Montiel</a>, <a href='#'>Jorge Luis Perez Gonzalez</a>, <a href='#'>Carlos Aranda</a> & <a href='#'>Luis Angel Juarez</a>.
